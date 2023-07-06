@@ -48,7 +48,7 @@ public class E05TwoDimArray01 {
 		 */
 		System.out.println("배열 출력하기");
 		System.out.println("arr[0][1]="+arr[0][1]);  
-		System.out.println("arr[0][3]="+arr[0][3]);//예외발생
+		System.out.println("arr[0][3]="+arr[0][3]);
 	}
 }
 
