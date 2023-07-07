@@ -30,7 +30,7 @@ public class E05PersonConstructorMain {
 		
 		System.out.println("[모든 매개변수를 전달한 값으로 초기화하기]");
 		PersonConstructor person4 = new PersonConstructor("박길동", 50 , "가산동");
-		person3.showPersonInfo();
+		person4.showPersonInfo();
 	}
 
 	private static PersonConstructor PersonConstructor(String string) {
@@ -38,4 +38,5 @@ public class E05PersonConstructorMain {
 		return null;
 	}
 
+	
 }
