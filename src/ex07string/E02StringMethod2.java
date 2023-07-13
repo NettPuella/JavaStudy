@@ -7,7 +7,7 @@ public class E02StringMethod2 {
 		System.out.println("String 클래스의 주요 메소드2");
 
 		String str1 = "Welcome to java";
-		String str2 = "자바야 놀자!";
+		String str2 = "자바야 놀자!"; 
 		
 		/*
 		6] codePointAt(인덱스) : 문자열의 특정 인덱스의 문자를 찾은 후
